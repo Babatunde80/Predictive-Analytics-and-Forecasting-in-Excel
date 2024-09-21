@@ -37,4 +37,4 @@ The dataset (**Weekly Customer Engagement**) covers various metrics essential fo
 If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
 
 - **Email:** poisedconsult@gmail.com  
-- **LinkedIn:** [www.linkedin.com/in/babatunde-joel-etu](#)  
+- **LinkedIn:** [www.linkedin.com/in/babatunde-joel-etu]
