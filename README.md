@@ -1,4 +1,5 @@
 # Predictive Analytics & Forecasting in Excel
+<img width="1536" height="1024" alt="Predictive Analysis" src="https://github.com/user-attachments/assets/181e76c7-5574-48d0-a1a0-ab6ad697c27e" />
 
 ## Project Overview
 A comprehensive predictive analytics and time series forecasting project built entirely in Excel, implementing multiple forecasting methodologies to predict customer demand patterns. This project leverages **advanced Excel functions, including FORECAST.LINEAR, moving averages, exponential smoothing, and linear regression** to deliver accurate future projections with confidence intervals, supporting data-driven business planning and inventory optimization.
